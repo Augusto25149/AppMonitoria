@@ -1,0 +1,184 @@
+{
+  "horarios": [
+    {
+      "horario": "07:30",
+      "segunda": "João",
+      "terca": "Gabriel & Vitor",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "Gabriel & João",
+      "sexta": "Gabriel & Vitor & João",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "08:15",
+      "segunda": "João",
+      "terca": "-",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "Gabriel & Vitor & João",
+      "sexta": "Gabriel & Vitor & João",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "09:00",
+      "segunda": "João",
+      "terca": "-",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "Gabriel & Vitor",
+      "sexta": "João",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "10:00",
+      "segunda": "João",
+      "terca": "-",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "10:45",
+      "segunda": "João",
+      "terca": "-",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "11:30",
+      "segunda": "João",
+      "terca": "-",
+      "quarta": "Gabriel & Vitor",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "Abdom Levi"
+    },
+    {
+      "horario": "12:15-13:00",
+      "segunda": "-",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "13:30",
+      "segunda": "-",
+      "terca": "Abdom Levi",
+      "quarta": "Abdom Levi & Gabriel & Vitor & João",
+      "quinta": "Abdom Levi & Gabriel",
+      "sexta": "João",
+      "sabado": "-"
+    },
+    {
+      "horario": "14:15",
+      "segunda": "Gabriel & Vitor",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "João",
+      "sabado": "-"
+    },
+    {
+      "horario": "15:00",
+      "segunda": "-",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "16:00",
+      "segunda": "-",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "Gabriel & Vitor",
+      "sabado": "-"
+    },
+    {
+      "horario": "16:45",
+      "segunda": "Schmal",
+      "terca": "Schmal & Abdom Levi",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "Vitor",
+      "sabado": "-"
+    },
+    {
+      "horario": "17:30",
+      "segunda": "Schmal",
+      "terca": "Schmal & Abdom Levi",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "Vitor",
+      "sabado": "-"
+    },
+    {
+      "horario": "18:15",
+      "segunda": "Schmal",
+      "terca": "Abdom Levi",
+      "quarta": "Schmal & João",
+      "quinta": "Schmal",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "19:00",
+      "segunda": "Schmal",
+      "terca": "Abdom Levi",
+      "quarta": "Schmal & João",
+      "quinta": "Schmal",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "19:45",
+      "segunda": "Schmal",
+      "terca": "Abdom Levi",
+      "quarta": "Schmal",
+      "quinta": "Schmal",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "20:30",
+      "segunda": "Schmal",
+      "terca": "Abdom Levi",
+      "quarta": "Schmal",
+      "quinta": "Schmal",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "21:00",
+      "segunda": "Schmal",
+      "terca": "-",
+      "quarta": "Schmal",
+      "quinta": "Schmal",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "21:30",
+      "segunda": "-",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "-"
+    },
+    {
+      "horario": "22:15",
+      "segunda": "-",
+      "terca": "-",
+      "quarta": "-",
+      "quinta": "-",
+      "sexta": "-",
+      "sabado": "-"
+    }
+  ]
+}
